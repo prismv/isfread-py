@@ -37,6 +37,8 @@ Author
 Gustavo Pasquevich - 2011 
 UNLP-CONICET-Argentina
 
+Ralf Ahlbrink (changes in versions >0.4.0)
+
 keywords: ISF, TekTronix, isfread, python
 
 Acknowledgment
@@ -44,3 +46,6 @@ Acknowledgment
 
 Based on matab script isfread.m by Jhon Lipp. 
 
+___
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/raprism/isfread-py)
